@@ -1,0 +1,10 @@
+{
+  "name": "zdzcode-vuetify-extensions",
+  "version": "3.0.0",
+  "description": "Vuetify Extensions",
+  "main": "index.js",
+  "repository": "https://github.com/zdzcode-projects/zdzcode-vuetify-extensions.git",
+  "author": "Zdzislaw Kochanski <zdzislaw@zdzcode.com.br>",
+  "license": "https://github.com/zdzcode-projects/zdzcode-vuetify-extensions/blob/main/LICENSE",
+  "private": false
+}
